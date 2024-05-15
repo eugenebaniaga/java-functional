@@ -6,3 +6,5 @@
 - Consumer like a void method, process but doesn't return any
 - Predicate return a boolean of one arg
 - Supplier return a result
+- Optional which can handle object that may contain null or non-null value.
+- Combinator Pattern + Function useful for chaining validations
